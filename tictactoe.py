@@ -12,7 +12,7 @@ pygame.init()
 # CONSTANTS
 #------------
 # parametros do tamanho da janela
-WIDTH = 200
+WIDTH = 600
 HEIGHT = WIDTH
 LINE_WIDTH = 15
 WIN_LINE_WIDTH = 15
